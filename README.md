@@ -1,9 +1,12 @@
-# me
+
+
+<h1 align="center">Hi 👋, I'm Hamza El Massaoudy</h1>
+
 🌐 Web Developer | AI Enthusiast | Projects in China, Morocco &amp; more </br>
 💻 Crafting innovative web solutions &amp; training AI models. </br>
 🤖 Passionate about clean code &amp; tech innovation.  </br>
 
-<h1 align="center">Hi 👋, I'm Hamza El Massaoudy</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/elmassaoudy_hamzaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elmassaoudy_hamzaax" height="30" width="40" /></a>
